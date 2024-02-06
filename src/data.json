@@ -1,0 +1,344 @@
+[
+    {
+        "html": [
+            {
+                "name": "html"
+            },
+            {
+                "Que": "What does HTML stand for?",
+                "A": " HyperText Markup Language",
+                "B": "High-Level Text Management Language",
+                "C": "Hyper Transferable Markup Language",
+                "D": "Hyperlink and Text Management Language",
+                "Ans": "HyperText Markup Language"
+            },
+            {
+                "Que": " Which HTML tag is used to define the structure of an HTML document?",
+                "A": "<head>",
+                "B": "<body>",
+                "C": "<html>",
+                "D": "<title>",
+                "Ans": "<html>"
+            },
+            {
+                "Que": " What is the correct way to create a hyperlink in HTML?",
+                "A": "<link href=example.com>",
+                "B": " <a href=example.com>Click here</a>",
+                "C": " <hyperlink>https:example.com</hyperlink>",
+                "D": " <url>https:example.com</url>",
+                "Ans": "<a href=example.com>Click here</a>"
+            },
+            {
+                "Que": " In HTML, which attribute is used to provide additional information about an element?",
+                "A": "info",
+                "B": "details",
+                "C": "alt",
+                "D": "title",
+                "Ans": "title"
+            },
+            {
+                "Que": " What does the <br> tag in HTML represent?",
+                "A": " Break",
+                "B": " Bold",
+                "C": " Bullet",
+                "D": " Block",
+                "Ans": "Break"
+            },
+            {
+                "Que": " Which HTML element is used to define the main content of an HTML document?",
+                "A": " <content>",
+                "B": " <main>",
+                "C": " <body>",
+                "D": " <section>",
+                "Ans": "<main>"
+            },
+            {
+                "Que": " What is the purpose of the HTML <meta> tag?",
+                "A": "To create metadata about the document",
+                "B": "To define a new section in the document",
+                "C": "To insert a media file",
+                "D": "To highlight text",
+                "Ans": "To create metadata about the document"
+            },
+            {
+                "Que": " Which HTML attribute is used to specify the alternative text for an image?",
+                "A": " alt",
+                "B": " text",
+                "C": " description",
+                "D": " imgalt",
+                "Ans": "alt"
+            },
+            {
+                "Que": " What is the correct way to comment out multiple lines in HTML?",
+                "A": " <!-- This is a comment -->",
+                "B": "/* This is a comment */",
+                "C": " // This is a comment //",
+                "D": " <!-- This is a comment //-->",
+                "Ans": "<!-- This is a comment -->"
+            },
+            {
+                "Que": " Which HTML element is used to define a list that is ordered?",
+                "A": " <list>",
+                "B": " <ul>",
+                "C": " <ol>",
+                "D": " <li>",
+                "Ans": "<ol>"
+            }
+        ],
+        "css": [
+            {
+                "name": "css"
+            },
+            {
+                "Que": "What does CSS stand for?",
+                "A": "Cascading Style Sheet",
+                "B": "Computer Style Sheet",
+                "C": "Creative Style Sheet",
+                "D": "Colorful Style Sheet",
+                "Ans": "Cascading Style Sheet"
+            },
+            {
+                "Que": "Which CSS property is used to change the text color of an element?",
+                "A": "text-color",
+                "B": "color",
+                "C": "font-color",
+                "D": "text-style",
+                "Ans": "color"
+            },
+            {
+                "Que": "Which CSS property is used to control the space between elements' content and border?",
+                "A": "padding",
+                "B": "margin",
+                "C": "border-spacing",
+                "D": "spacing",
+                "Ans": "padding"
+            },
+            {
+                "Que": "What does the 'box-sizing' property in CSS control?",
+                "A": "Element visibility",
+                "B": "Box dimensions",
+                "C": "Text alignment",
+                "D": "Box shadow",
+                "Ans": "Box dimensions"
+            },
+            {
+                "Que": "Which CSS pseudo-class is used to select and style the first child element of another element?",
+                "A": ":first-child",
+                "B": ":first-element",
+                "C": ":child-first",
+                "D": ":element-first",
+                "Ans": ":first-child"
+            },
+            {
+                "Que": "In CSS, what property is used to control the order of overlapping elements?",
+                "A": "z-index",
+                "B": "order",
+                "C": "overlap-index",
+                "D": "layer-index",
+                "Ans": "z-index"
+            },
+            {
+                "Que": "What is the purpose of the 'display: inline-block;' property in CSS?",
+                "A": "Make an element inline",
+                "B": "Make an element block-level",
+                "C": "Make an element inline and block-level",
+                "D": "Hide an element",
+                "Ans": "Make an element inline and block-level"
+            },
+            {
+                "Que": "Which CSS property is used to add a shadow to an element?",
+                "A": "text-shadow",
+                "B": "box-shadow",
+                "C": "element-shadow",
+                "D": "shadow",
+                "Ans": "box-shadow"
+            },
+            {
+                "Que": "What is the default value of the 'position' property in CSS?",
+                "A": "static",
+                "B": "relative",
+                "C": "absolute",
+                "D": "fixed",
+                "Ans": "static"
+            },
+            {
+                "Que": "How can you select an element with id 'myElement' in CSS?",
+                "A": "#myElement",
+                "B": ".myElement",
+                "C": "element(myElement)",
+                "D": "id(myElement)",
+                "Ans": "#myElement"
+            }
+        ],
+        "javascript": [
+            {
+                "name": "JavaScript"
+            },
+            {
+                "Que": "What is the correct way to include an external JavaScript file in an HTML document?",
+                "A": "<script src='script.js'></script>",
+                "B": " <javascript href='script.js'></javascript>",
+                "C": "<link rel='script' type='text/javascript' href='script.js'>",
+                "D": "<js include='script.js'></js>",
+                "Ans": "<script src='script.js'></script>"
+            },
+            {
+                "Que": "How do you declare a variable in JavaScript?",
+                "A": "let myVar = 5;",
+                "B": "variable myVar = 5;",
+                "C": "var myVar = 5;",
+                "D": " myVar = 5;",
+                "Ans": " var myVar = 5;"
+            },
+            {
+                "Que": "What does the 'DOM' stand for in JavaScript?",
+                "A": "<link href=example.com>",
+                "B": " <a href=example.com>Click here</a>",
+                "C": " <hyperlink>https:example.com</hyperlink>",
+                "D": " <url>https:example.com</url>",
+                "Ans": " B) <a href=example.com>Click here</a>"
+            },
+            {
+                "Que": "What does the 'DOM' stand for in JavaScript?",
+                "A": " Document Object Model",
+                "B": " Data Object Model",
+                "C": " Document Order Model",
+                "D": "Dynamic Object Model",
+                "Ans": "Document Object Model"
+            },
+            {
+                "Que": "What is the purpose of the 'typeof' operator in JavaScript?",
+                "A": "To determine the type of a variable",
+                "B": "To create a new variable",
+                "C": " To check if a variable is defined",
+                "D": " To concatenate two strings",
+                "Ans": "To determine the type of a variable"
+            },
+            {
+                "Que": "Which function is used to print output in the console?",
+                "A": "print()",
+                "B": "log()",
+                "C": "display()",
+                "D": "write()",
+                "Ans": " log()"
+            },
+            {
+                "Que": "What is the purpose of the 'this' keyword in JavaScript?",
+                "A": "Refers to the previous function",
+                "B": " Refers to the global object",
+                "C": " Refers to the current object",
+                "D": " Refers to the parent object",
+                "Ans": "Refers to the current object"
+            },
+            {
+                "Que": "Which of the following is a falsy value in JavaScript?",
+                "A": "0",
+                "B": "'true'",
+                "C": " undefined",
+                "D": " All of the above",
+                "Ans": " undefined"
+            },
+            {
+                "Que": "What is the purpose of the 'addEventListener' method?",
+                "A": "To remove an event listener",
+                "B": "To add a new HTML element",
+                "C": "To handle events like clicks or keypresses",
+                "D": "To define a new function",
+                "Ans": "To handle events like clicks or keypresses"
+            },
+            {
+                "Que": "Which operator is used for strict equality in JavaScript?",
+                "A": "==",
+                "B": "===",
+                "C": " =",
+                "D": " ==",
+                "Ans": "==="
+            }
+        ],
+        "react": [
+            {
+                "name": "react"
+            },
+            {
+                "Que": "What is React?",
+                "A": "  A programming language",
+                "B": " A JavaScript library for building user interfaces",
+                "C": "An operating system",
+                "D": " A database management system",
+                "Ans": " A JavaScript library for building user interfaces"
+            },
+            {
+                "Que": "Which method is used to create a new component in React?",
+                "A": " createComponent()",
+                "B": "newComponent()",
+                "C": "createElement()",
+                "D": "addComponent()",
+                "Ans": " createElement()"
+            },
+            {
+                "Que": "What is JSX in React?",
+                "A": "A syntax extension for JavaScript",
+                "B": " A state management tool",
+                "C": " A CSS preprocessor",
+                "D": "An HTML templating engine",
+                "Ans": "A syntax extension for JavaScript"
+            },
+            {
+                "Que": "In React, what is the purpose of the 'useState' hook?",
+                "A": "To fetch data from an API",
+                "B": "To manage state in functional components",
+                "C": "To handle user authentication",
+                "D": "To create reusable components",
+                "Ans": "To manage state in functional components"
+            },
+            {
+                "Que": "What is the role of 'props' in React?",
+                "A": "A shorthand for 'properties'",
+                "B": " A way to pass data between components",
+                "C": " A React lifecycle method",
+                "D": " A CSS styling convention",
+                "Ans": " A way to pass data between components"
+            },
+            {
+                "Que": "Which lifecycle method is called after a component has been rendered in React?",
+                "A": "componentDidMount",
+                "B": "componentDidUpdate",
+                "C": "componentWillMount",
+                "D": "componentWillUnmount",
+                "Ans": " componentDidMount"
+            },
+            {
+                "Que": "What is the purpose of 'React Router' in a React application?",
+                "A": "To manage state in functional components",
+                "B": " To handle user authentication",
+                "C": "To create routes and navigation in a single-page application",
+                "D": "To perform asynchronous operations",
+                "Ans": "To create routes and navigation in a single-page application"
+            },
+            {
+                "Que": "In React, what is the significance of the 'key' prop in a list of elements?",
+                "A": "It defines the styling for each element",
+                "B": " It specifies the order of the elements",
+                "C": " It is used for authentication",
+                "D": " It helps React identify which items have changed, are added, or are removed",
+                "Ans": " It helps React identify which items have changed, are added, or are removed"
+            },
+            {
+                "Que": "What is the purpose of the 'Redux' library in React?",
+                "A": " To manage state in a React application",
+                "B": "To create animations",
+                "C": "To handle routing",
+                "D": "To style components",
+                "Ans": " To manage state in a React application"
+            },
+            {
+                "Que": "Which command is used to create a new React application using 'Create React App'?",
+                "A": "create-react",
+                "B": "new-react",
+                "C": " react-init",
+                "D": "npx create-react-app",
+                "Ans": "npx create-react-app"
+            }
+        ]
+    }
+]
